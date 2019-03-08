@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[hexo测试文章模板功能]]></title>
+    <url>%2F2019%2F03%2F08%2Fhexo%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E6%A8%A1%E6%9D%BF%E5%8A%9F%E8%83%BD%2F</url>
+    <content type="text"><![CDATA[hexo测试文章模板功能 ##在路径scaffolds修改post.md文件即可]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[常用工具记录]]></title>
+    <url>%2F2019%2F03%2F07%2F%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%E8%AE%B0%E5%BD%95%2F</url>
+    <content type="text"><![CDATA[常用工具记录 比较好用的编辑器推荐：sublimevscodeAtom 在线图标网站在线pdf文件转换网站]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[hexo常用命令记录]]></title>
+    <url>%2F2019%2F03%2F06%2Fhexo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E8%AE%B0%E5%BD%95%2F</url>
+    <content type="text"><![CDATA[记录使用过程中hexo常用命令 支持实时更改1hexo s -g 添加新文章1hexo new &quot;文章名&quot; 添加分类、标签云、关于123hexo new page &quot;tags&quot;hexo new page &quot;categories&quot;hexo new page &quot;about&quot; 清除、生成、运行发布可以简写为首字母1234hexo cleanhexo generatehexo serverhexo deploy]]></content>
+      <tags>
+        <tag>hexo</tag>
+        <tag>博客</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[hexo添加阅读全文]]></title>
+    <url>%2F2019%2F03%2F06%2Fhexo%E6%B7%BB%E5%8A%A0%E9%98%85%E8%AF%BB%E5%85%A8%E6%96%87%2F</url>
+    <content type="text"><![CDATA[这里学习如何添加阅读全文的功能。 实现在主页只展示部分文字，其他文字隐藏起来，通过点击阅读更多来阅读全文。方法就是写每一篇文章的时候，在必要的地方添加&lt;!-- more --&gt;即可。例如：12345678910111213title: 4块钱,用Github+Hexo搭建你的个人博客：搭建篇id: hexo01images: http://media.makcyun.top/18-8-3/89578286.jpgcategories: hexo博客tags: [hexo,个人博客,github]keywords: hexo,搭建博客,github pages,next---4块钱,你就能够在茫茫互联网中拥有一处专属于你的小天地，丈量你走过的每一个脚印。 &lt;!-- more --&gt;摘要： 对于一个不懂任何前端的纯小白来说，搭建博客是件很有挑战的事。]]></content>
+      <tags>
+        <tag>hexo</tag>
+        <tag>博客</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[hexo文本居中的引用]]></title>
+    <url>%2F2019%2F03%2F06%2Fhexo%E6%96%87%E6%9C%AC%E5%B1%85%E4%B8%AD%E7%9A%84%E5%BC%95%E7%94%A8%2F</url>
+    <content type="text"><![CDATA[此标签将生成一个带上下分割线的引用，同时引用内文本将自动居中。文本居中时，多行文本若长度不等，视觉上会显得不对称，因此建议在引用单行文本的场景下使用。例如作为文章开篇引用 或者 结束语之前的总结引用。 使用方式： HTML方式：使用这种方式时，给img添加属性class=&quot;blockquote-center&quot;即可。 标签方式：使用centerquote或者简写cq。举例：123456789&lt;!-- HTML方式: 直接在 Markdown 文件中编写 HTML 来调用 --&gt;&lt;!-- 其中 class=&quot;blockquote-center&quot; 是必须的 --&gt;&lt;blockquote class=&quot;blockquote-center&quot;&gt;blah blah blah&lt;/blockquote&gt;&lt;!-- 标签 方式，要求版本在0.4.5或以上 --&gt;&#123;% centerquote %&#125;blah blah blah&#123;% endcenterquote %&#125;&lt;!-- 标签别名 --&gt;&#123;% cq %&#125; blah blah blah &#123;% endcq %&#125; 这里使用标签的方式。 人的一切痛苦，本质上都是对自己无能的愤怒 by 王小波]]></content>
+      <tags>
+        <tag>文学</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[hexo博客功能]]></title>
+    <url>%2F2019%2F03%2F04%2Fhexo%E5%8D%9A%E5%AE%A2%E5%8A%9F%E8%83%BD%E8%AE%A1%E5%88%92%2F</url>
+    <content type="text"><![CDATA[后续每天整理及补充功能 添加功能计划 修改图标和背景 修改框架 自定义主题 研究markdown添加图片]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[hello amei]]></title>
+    <url>%2F2019%2F03%2F02%2Fhello-amei%2F</url>
+    <content type="text"><![CDATA[你好，Github Page by amei]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[hello my web]]></title>
+    <url>%2F2019%2F03%2F02%2Fhello-my-web%2F</url>
+    <content type="text"><![CDATA[年年岁岁花相似，岁岁年年人不同，时间过得真快，明天即将登上回家的列车，听着歌来总结下这一年走过的路，然后洗心革面，重新再来~ 前言&nbsp;&nbsp;&nbsp;&nbsp;我该从哪里开始呢，我该以怎么样的方式写下这篇文章，用两首我最喜欢的歌曲《In My Secret Life》和《Five Hundred Miles》开始吧，无论写的怎么样，这都是我这一年生活的见证。回顾是为了更好的前进，那句话怎么说来着，不忘初心。在这样的时间点上，我相信，无论这一年过得好不好，我的2018就这样结束了。]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F03%2F02%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
